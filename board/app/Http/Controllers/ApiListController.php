@@ -28,4 +28,13 @@ class ApiListController extends Controller
         // return response()->json($boards,200);
         return $arr;
     }
+
+    function putlist() {
+
+    }
+
+    function deletelist() {
+        
+    }
+
 }
